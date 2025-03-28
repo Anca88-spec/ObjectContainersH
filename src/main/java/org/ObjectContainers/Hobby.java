@@ -13,6 +13,7 @@ public class Hobby {
         this.addresses = addresses;
     }
 
+
     public List<Address> getAddresses() {
         return addresses;
     }

@@ -8,6 +8,7 @@ public class Hired extends Person {
         this.companyName = companyName;
     }
 
+
     @Override
     public String toString() {
         return super.toString() + " - Hired at " + companyName;
